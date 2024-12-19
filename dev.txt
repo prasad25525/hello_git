@@ -1,4 +1,4 @@
-def hello():
+def display():
     print('hello')
 
 
